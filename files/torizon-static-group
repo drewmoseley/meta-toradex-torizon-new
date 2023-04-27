@@ -44,6 +44,7 @@ users:x:100:torizon
 input:x:101:torizon
 kvm:x:102:
 render:x:103:
+sgx:x:104:
 weston:x:980:
 wayland:x:981:
 weston-launch:x:982:
